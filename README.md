@@ -16,7 +16,7 @@ A lightweight Python script that automates the delivery of a customized HTML new
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/daily-newsletter.git](https://github.com/yourusername/daily-newsletter.git)
+git clone [https://github.com/sami9644/Email-newsleter-in-python.git](https://github.com/sami9644/Email-newsleter-in-python.git)
 cd daily-newsletter
 
 ```
